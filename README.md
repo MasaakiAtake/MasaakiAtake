@@ -1,4 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=MasaakiAtake&color=lightgrey)
+[ ![miwashutaro0611](https://komarev.com/ghpvc/?username=MasaakiAtake)
+](https://github.com/MasaakiAtake/MasaakiAtake/)
+[![](https://img.shields.io/github/followers/MasaakiAtake?label=follow&logo=github&style=flat)
+](https://github.com/MasaakiAtake)
+[![]()]()
 
 ---
 
@@ -6,15 +10,7 @@
 ](https://codepen.io/miwashutaro0611/pen/rNwzKwK)
 
 
-[ ![miwashutaro0611](https://komarev.com/ghpvc/?username=MasaakiAtake)
-](https://github.com/MasaakiAtake/MasaakiAtake/)
-[![](https://img.shields.io/github/followers/MasaakiAtake?label=follow&logo=github&style=flat)
-](https://github.com/MasaakiAtake)
-[![](https://qiita-badge.apiapi.app/s/MasaakiAtake/posts.svg)
-](http://qiita.com/MasaakiAtake)
-[![](https://qiita-badge.apiapi.app/s/MasaakiAtake/contributions.svg)
-](http://qiita.com/MasaakiAtake)
-[![]()]()
+
 
 
 
