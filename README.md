@@ -11,7 +11,17 @@
 
 
 
+### :man_technologist: About Me:
 
+I am studying AI and software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Korea.
+
+- :seedling: I love coffee. I'm especially into Colombian beans.
+
+- :telescope: I am interested in game development and software development
+
+- :satellite: I also have experiences in React <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" width="30">fields.
+
+- :zap: In my free time, I play a game called "Monster Hunter Now".
 
 
 
