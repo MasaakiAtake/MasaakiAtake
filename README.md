@@ -15,15 +15,16 @@
 
 ### :man_technologist: About Me:
 
-I am studying AI and software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Korea.
+I am a system engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Fukuoka.
+After completing my studies in Korea, I became a low-code engineer.
 
 - :seedling: I love coffee. I'm especially into Colombian beans.
 
-- :telescope: I am interested in game development and software development
+- :telescope: I am interested in low-code development and software development
 
 - :satellite: I also have experiences in React <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" width="30">fields.
 
-- :zap: In my free time, I play a game called "Monster Hunter Now".
+- :zap: I love to cook and I cook for myself every day!<https://www.google.com/imgres?q=%E6%96%99%E7%90%86%20GIF&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffe%2F03%2F3c%2Ffe033c21c02a0d1a9f22071a0bd6d8fd.gif&imgrefurl=https%3A%2F%2Fjp.pinterest.com%2Fpin%2Fpedalfar--467389267595688960%2F&docid=4T7Sa2m99litsM&tbnid=doQfVOOQRrbN9M&vet=12ahUKEwjgiYqPjN6NAxUon68BHT6zEDkQM3oECH8QAA..i&w=500&h=270&hcb=2&ved=2ahUKEwjgiYqPjN6NAxUon68BHT6zEDkQM3oECH8QAA>
 
 
 
