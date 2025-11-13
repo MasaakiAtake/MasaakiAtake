@@ -6,11 +6,8 @@
 
 ---
 
-
-
-[![Sublime's custom image](https://corobuzz.com/wp-content/uploads/2015/01/gm1.gif)
-](https://codepen.io/miwashutaro0611/pen/rNwzKwK)
-
+[![Sublime's custom image](https://www.lettuceclub.net/i/R1/img/dish/1/S20210525032001A_000.jpg)
+](https://www.lettuceclub.net/i/R1/img/dish/1/S20210525032001A_000.jpg)
 
 
 ### :man_technologist: About Me:
