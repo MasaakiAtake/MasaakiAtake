@@ -7,7 +7,6 @@
 ---
 
 
-
 [![Sublime's custom image](https://www.lettuceclub.net/i/R1/img/dish/1/S20210525032001A_000.jpg)
 ](https://www.lettuceclub.net/i/R1/img/dish/1/S20210525032001A_000.jpg)
 
