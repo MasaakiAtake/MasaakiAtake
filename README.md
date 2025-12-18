@@ -6,12 +6,8 @@
 
 ---
 
-
-[![Sublime's custom image](https://www.lettuceclub.net/i/R1/img/dish/1/S20210525032001A_000.jpg)
-](https://www.lettuceclub.net/i/R1/img/dish/1/S20210525032001A_000.jpg)
-
-https://www.google.com/imgres?q=%E3%83%A1%E3%82%AC%E3%82%AC%E3%83%96%E3%83%AA%E3%82%A2%E3%82%B9&imgurl=https%3A%2F%2Fzukan.pokemon.co.jp%2Fzukan-api%2Fup%2Fimages%2Findex%2F6ac45bc97779f00ed3e9ce5df435cf40.png&imgrefurl=https%3A%2F%2Fzukan.pokemon.co.jp%2Fdetail%2F0445-1&docid=hEZdCRW16PIlCM&tbnid=RHYBF9KRJmGwkM&vet=12ahUKEwiE16W0ppSRAxUmklYBHfCdBYQQM3oECBsQAA..i&w=570&h=570&hcb=2&ved=2ahUKEwiE16W0ppSRAxUmklYBHfCdBYQQM3oECBsQAA
-# ↑ガブリアスが好き
+![Sublime's custom image](https://zukan.pokemon.co.jp/zukan-api/up/images/index/6ac45bc97779f00ed3e9ce5df435cf40.png)
+# ガブリアスが好き
 
 
 ### :man_technologist: About Me:
