@@ -7,7 +7,6 @@
 ---
 
 
-
 ![Sublime's custom image](https://zukan.pokemon.co.jp/zukan-api/up/images/index/6ac45bc97779f00ed3e9ce5df435cf40.png)
 # ガブリアスが好き
 
