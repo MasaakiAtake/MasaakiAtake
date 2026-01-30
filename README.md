@@ -14,14 +14,12 @@
 
 ### :man_technologist: About Me:
 
-I am a system engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Fukuoka.
+I am a Pokémon Trainer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Fukuoka.
 After completing my studies in Korea, I became a low-code engineer.
 
 - :seedling: I love coffee. I'm especially into Colombian beans.
 
 - :telescope: I am interested in low-code development and software development
-
-- :satellite: I also have experiences in React <img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" width="30">fields.
 
 - :zap: I love to cook and I cook for myself every day!<img src="https://i.pinimg.com/originals/fe/03/3c/fe033c21c02a0d1a9f22071a0bd6d8fd.gif" width="30">
 
