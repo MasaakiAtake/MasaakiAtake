@@ -15,7 +15,8 @@
 ### :man_technologist: About Me:
 
 I am a Pokémon Trainer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Fukuoka.
-After completing my studies in Korea, I became a low-code engineer.
+
+After completing my studies in Korea, I became a engineer.
 
 - :seedling: I love coffee. I'm especially into Colombian beans.
 
